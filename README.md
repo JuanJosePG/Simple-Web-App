@@ -1,6 +1,6 @@
 # Simple-Web-App
 
-This repository is a little practice with NodeJS, Express and JS.
+This repository is a little practice with NodeJS, Express and JS provided by Brian Holt tutorial at FrontEndMasters.
 Before to start, you have to install [NodeJS](https://nodejs.org/en/) to provide the basic tools to create the server. 
 Once it's installed, we have to install Express (NodeJS framework) by the following way ```npm install express```.
 
